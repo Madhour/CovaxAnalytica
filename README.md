@@ -3,13 +3,14 @@ CovidVaccinationSentiment
 
 Data and sentiment analysis  on vaccine-acceptance by regions
 
+
 Project Organization
 ------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
+    ├── data               <- This folder will be added to .gitignore once contributors have access
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
