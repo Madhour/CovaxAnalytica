@@ -1,6 +1,8 @@
 CovidVaccinationSentiment
 ==============================
 
+![Logo](https://github.com/Madhour/CovaxAnalytica/blob/main/references/CovaxAnalytica_darkmode.png?raw=true)
+
 Data and sentiment analysis  on vaccine-acceptance by regions
 
 
