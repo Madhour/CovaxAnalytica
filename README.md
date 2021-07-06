@@ -4,7 +4,11 @@ CovidVaccinationSentiment
 ![Logo](https://github.com/Madhour/CovaxAnalytica/blob/main/docs/logo/CovaxAnalytica_darkmode.png?raw=true)
 
 Data and sentiment analysis  on vaccine-acceptance by regions
+---
 
+```
+pip3 install -r requirements.txt
+```
 
 Project Organization
 ------------
