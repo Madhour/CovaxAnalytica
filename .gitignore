@@ -1,7 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+data/
+data/interim
 data/raw/outdated
+models/outdated
 
 # C extensions
 *.so
@@ -88,3 +91,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
+data/interim/cleaned_vaccine_tweets.csv
