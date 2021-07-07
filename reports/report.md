@@ -26,7 +26,7 @@ The overall mean sentiment of each vaccine is neutral with a positive tendency. 
 
 ![vaccine sentiment](/docs/img/vaccine_sentiment.png)
 
-PfizerBiontech, the first approved COVID-19 vaccine, was the most tweeted about at the beginning of the year. However it got quickly overrun by Moderna and Covaxin. The tweet volume is of importance because the more a vaccine is talked about the less the risk of a few opionion leaders influencing the absolute sentiment.
+PfizerBiontech, the first approved COVID-19 vaccine, was the most tweeted about in the beginning of the year. However it got quickly overrun by Moderna and Covaxin. The tweet volume is of importance because the more a vaccine is talked about the less the risk of a few opionion leaders influencing the absolute sentiment.
 
 ![Tweet amount](/docs/img/tweet_amount.gif)
 
@@ -38,7 +38,7 @@ As with all Vaccines predominantly used in the U.S., there is an observable dip 
 
 ![pfizer sentiment](/docs/img/pfizerbiontech_sentiment.png)
 
-The first peak seems to be influenced by news about pfizer biontech causing 23 deaths in norway. The news had a strong impact overseas and caused an increase in vaccine-hesitancy, as observable in the following tweet:
+The first negative peak in sentiment seems to be influenced by news about pfizer biontech causing 23 deaths in norway. The news had a strong impact overseas and caused an increase in vaccine-hesitancy, as observable in the following tweet:
 - "U MAY die if u become covid positive. But #PfizerBioNTech shot will DEFINITELY kill you. Stuck between devil and sea." (Index No. 29798 in geo_vaccine_tweets_with_sentiment.csv)
 
 ![world sentiment](/docs/img/world_sentiment.png)
