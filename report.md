@@ -75,6 +75,7 @@ As of june/july 2021, the delta variant of the COVID-19 virus is posing serious 
 Apart from this, we conducted several iterations of word and document vectorization. Our aim was to cluster tweets depending on their content but because tweets are short in text, no clear cluster could be identified. To achieve this, further data engineering and hyperparameter tuning is needed. 
 What we found out with our attempt however, still remains relevant: a Word2Vec model trained on the whole corpus of 100.000+ tweets yields the following:
 - the most similar word to common conspiracy theory terms like "plandemic" is: great reset, bill gates, genocide, drfauci, merck. 
+
 This can be used to identify further sources of false news and conspiracies. 
 
 # 3. Conclusion:
