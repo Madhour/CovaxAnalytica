@@ -22,7 +22,10 @@ Identifying triggers of negative sentiment and vaccine-hesitancy might be the fi
 
 ## 1.2 Average Sentiment and Tweet Amount
 
-![overall development](/docs/img/sentiment.gif)
+<p align="center">
+  ![overall development](/docs/img/sentiment.gif)
+</p>
+
 ![sentiment overall](/docs/img/sentiment_overall.png)
 ![sentiment per month](/docs/img/sentiment_per_month.png)
 ![amount of tweets](/docs/img/amount_tweets.png)
