@@ -14,6 +14,33 @@ However, when it comes to vaccines, there are vastly polarising opinions, rangin
 Identifying triggers of negative sentiment and vaccine-hesitancy might be the first step towards a united society, pulling together against COVID-19. CovaxAnalytica, a student project by Madhour and Bach, aims to analyze the overall sentiment towards each vaccine, which allows for an in-depth analysis of opinions and their causes.
 
 ---
+# Part 1: Overall Covid-19
+
+## 1.1 Placement of Tweets
+
+![tweets worldwide](/docs/img/tweets_worldwide.png)
+
+## 1.2 Average Sentiment and Tweet Amount
+
+<p align="center">
+  ![overall development](/docs/img/sentiment.gif)
+</p>
+
+![sentiment overall](/docs/img/sentiment_overall.png)
+![sentiment per month](/docs/img/sentiment_per_month.png)
+![amount of tweets](/docs/img/amount_tweets.png)
+
+## 1.3 Focussing on detailed Countries
+
+![sentiment india](/docs/img/sentiment_india.png)
+![sentiment germany](/docs/img/sentiment_germany.png)
+![sentiment us](/docs/img/sentiment_us.png)
+![sentiment uk](/docs/img/sentiment_uk.png)
+
+## 1.4 Correlation between Sentiment and vaccination status
+
+![sentiment vaccination](/docs/img/vaccine_sentiment.png)
+
 # Part 2: Vaccines
 
 As of July 2021, more than 3 billion vaccine doses have been administered. 24% of the world population has received at least one dose, the goal however is 70% receiving 2 doses. That means the fight against the virus is far from over and is getting stalled by major setbacks. Fake news, news about side-effects and new variants all lead to an increase in vaccine-hesitancy or an overall negative sentiment. Thus it is of utmost importance to identify causes for the negative sentiment so that these problematic areas can be resolved.
