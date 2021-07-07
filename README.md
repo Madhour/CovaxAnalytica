@@ -15,6 +15,7 @@ pip3 install -r requirements.txt
 
 Read the report [here](/reports/report.md)!
 
+<!-- 
 
 Project Organization
 ------------
@@ -44,3 +45,5 @@ Project Organization
 Project structure is an adaption of [Cookiecutter data science template](https://drivendata.github.io/cookiecutter-data-science/).
 
 --------
+
+-->
