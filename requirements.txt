@@ -15,6 +15,7 @@ pandas
 numpy
 geopy
 reverse_geocode
+calendar
 re
 nltk
 pytrends
