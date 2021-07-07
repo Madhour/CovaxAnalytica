@@ -5,7 +5,7 @@ data/
 data/interim
 data/raw/outdated
 models/outdated
-
+data/raw
 # C extensions
 *.so
 /local/
