@@ -5,7 +5,7 @@ CovidVaccinationSentiment
 
 Data and sentiment analysis  on vaccine-acceptance by regions
 ---
-Unfortunately the Twitter Guidelines do not allow us to upload or provide hydrated Twitter Data. Therefore there is a Dataset provided including the Tweet ID´s in the Repository in the Data Folder. These ID´s need to be hydrated using the Hydrator Tool ![Hydrator](https://github.com/DocNow/hydrator).
+Unfortunately the Twitter Guidelines do not allow us to upload or provide hydrated Twitter Data. Therefore there is a Dataset provided including the Tweet ID´s in the Repository in the Data Folder. These ID´s need to be hydrated using the Hydrator Tool [here](https://github.com/DocNow/hydrator).
 
 ```
 pip3 install -r requirements.txt
