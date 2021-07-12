@@ -21,6 +21,7 @@ Covid 19 had a massive impact on the whole planet. In numbers there occur nearly
 ## 1.1 Placement of Tweets
 
 ![tweets worldwide](/docs/img/tweets_worldwide.png)
+
 We can see the overall coverage of tweets in the dataset worldwide. We can observe that the Dataset mostly includes tweets from the United States. 44824 Tweets of a the total 110000 were parsed there. After that the United Kingdom includes 21110 Tweets with a focus on the south part of England. But also Wales, Scottland and Ireland were included. Furthermore Canada provides 15610 Tweets, India 7687 and Australia 1867. Germany is the top 10 Country for amount of tweets with between 800 and 900 Tweets. What also can be observed is that some countries like Russia and China for example are not featured that much in the Dataset because of the language barrier and the fact that they provide their own social networks apart from Twitter and so on.
 
 ## 1.2 Average Sentiment and Tweet Amount
