@@ -5,7 +5,13 @@ CovidVaccinationSentiment
 
 Data and sentiment analysis  on vaccine-acceptance by regions
 ---
-Unfortunately the Twitter Guidelines do not allow us to upload or provide hydrated Twitter Data. Therefore there is a Dataset provided including the Tweet ID´s in the Repository in the Data Folder. These ID´s need to be hydrated using the Hydrator Tool [here](https://github.com/DocNow/hydrator).
+
+## Datasets:
+- [All COVID-19 Vaccines Tweets](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets)
+- [COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
+
+
+Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet IDs can be provided. To build the dataset, follow the steps [here](https://github.com/DocNow/hydrator) to hydrate the IDs.
 
 ```
 pip3 install -r requirements.txt
