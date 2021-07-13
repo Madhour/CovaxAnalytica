@@ -44,8 +44,9 @@ Project structure is an adaption of [Cookiecutter data science template](https:/
 Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet IDs can be provided. To build the dataset, follow the steps [here](https://github.com/DocNow/hydrator) to hydrate the IDs.
 
 ## How to analyze vaccine tweets:
-1. Hydrate the tweet IDs in ```/data/raw/tweet_ids.csv/``` and store the resulting jsonl file as "vaccine_tweets_hydrated.jsonl" in ```/data/raw/```
-2. Run Notebooks 2 - 6 in ```/notebooks/```
+1. Download the datasets above and place them in ```/data/raw````
+2. Hydrate the tweet IDs in ```/data/raw/tweet_ids.csv/``` and store the resulting jsonl file as "vaccine_tweets_hydrated.jsonl" in ```/data/raw/```
+3. Run Notebooks 2 - 6 in ```/notebooks/```
  - Note: you may have to install requirements (```pip install requirements.txt```)
 
 ## How to analyze overall COVID-19 tweets:
