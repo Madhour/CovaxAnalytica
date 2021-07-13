@@ -9,7 +9,7 @@ Data and sentiment analysis  on vaccine-acceptance by regions
 ## Datasets:
 - [All COVID-19 Vaccines Tweets](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets)
 - [COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
-
+- [CORONAVIRUS (COVID-19) GEO-TAGGED TWEETS DATASET](https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset#files)
 
 Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet IDs can be provided. To build the dataset, follow the steps [here](https://github.com/DocNow/hydrator) to hydrate the IDs.
 
