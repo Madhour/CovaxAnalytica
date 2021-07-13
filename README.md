@@ -1,5 +1,4 @@
-CovidVaccinationSentiment
-==============================
+
 
 ![Logo](https://github.com/Madhour/CovaxAnalytica/blob/main/docs/logo/CovaxAnalytica_darkmode.png?raw=true)
 
