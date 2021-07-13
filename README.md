@@ -46,12 +46,12 @@ Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet ID
 1. Download the datasets above and place them in ```/data/raw```
 2. Hydrate the tweet IDs in ```/data/raw/tweet_ids.csv/``` and store the resulting jsonl file as "vaccine_tweets_hydrated.jsonl" in ```/data/raw/```
 3. Run Notebooks 2 - 6 in ```/notebooks/```
- - Note: you may have to install requirements (```pip install requirements.txt```)
+ - Note: you may have to install requirements (```pip3 install requirements.txt```)
 
 ## How to analyze overall COVID-19 tweets:
 1. Hydrate ```Corona_Combined_Nov2020-June2021.csv``` and store as "Hydrated_Tweets.jsonl" in ```/data/raw```
 2. Run Notebook 1 and 7 - 11 in ```/notebooks/```
- - Note: you may have to install requirements (```pip install requirements.txt```)
+ - Note: you may have to install requirements (```pip3 install requirements.txt```)
 
 ## Used Technologies
 
