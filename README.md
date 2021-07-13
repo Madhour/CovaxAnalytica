@@ -34,7 +34,6 @@ Project Organization
 
 Project structure is an adaption of [Cookiecutter data science template](https://drivendata.github.io/cookiecutter-data-science/).
 
---------
 
 
 ## Datasets:
@@ -51,11 +50,20 @@ Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet ID
 
 ## How to analyze overall COVID-19 tweets:
 1. Hydrate ```Corona_Combined_Nov2020-June2021.csv``` and store as "Hydrated_Tweets.jsonl" in ```/data/raw```
-2. Run Notebook 1 and 7 - 13 in ```/notebooks/```
+2. Run Notebook 1 and 7 - 11 in ```/notebooks/```
  - Note: you may have to install requirements (```pip install requirements.txt```)
 ---
-# Report
 
-Read the report [here](/reports/CovaxAnalytica_project_report.pdf)!
+## Used Technologies
+
+ ![NLP Pipeline](/docs/img/process_nlp.png)
+ - NLP Pipeline:
+  - [Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html), [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html), [TF-IDF](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html), K-Means
+  - SavGol-Filter (value smoothing)
+  - Plotly (interactive Plots)
+
+## Report
+
+Read the report [here](/reports/CovaxAnalytica_project_report.pdf). The interactive Plots are stored in ```/reports/figures/```.
 
 
