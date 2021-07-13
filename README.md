@@ -52,7 +52,6 @@ Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet ID
 1. Hydrate ```Corona_Combined_Nov2020-June2021.csv``` and store as "Hydrated_Tweets.jsonl" in ```/data/raw```
 2. Run Notebook 1 and 7 - 11 in ```/notebooks/```
  - Note: you may have to install requirements (```pip install requirements.txt```)
----
 
 ## Used Technologies
 
