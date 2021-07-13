@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 ---
 # Report
 
-Read the report [here](/reports/report.md)!
+Read the report [here](/reports/CovaxAnalytica_project_report.pdf)!
 
 <!-- 
 
