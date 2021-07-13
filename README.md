@@ -57,8 +57,7 @@ Unfortunately the Twitter Guidelines do not allow the upload of tweets. Tweet ID
 ## Used Technologies
 
  ![NLP Pipeline](/docs/img/process_nlp.png)
- - NLP Pipeline:
-  - [Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html), [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html), [TF-IDF](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html), K-Means
+ - NLP Pipeline: [Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html), [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html), [TF-IDF](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html), K-Means
   - SavGol-Filter (value smoothing)
   - Plotly (interactive Plots)
 
