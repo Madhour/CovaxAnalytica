@@ -1,11 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-data/
 data/interim
 data/raw/outdated
 models/outdated
-data/raw
 notebooks/.ipynb_checkpoints
 # C extensions
 *.so
