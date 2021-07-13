@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/Madhour/CovaxAnalytica/blob/main/docs/logo/CovaxAnalytica_darkmode.png?raw=true)
 
-Data and Sentiment Analysis inVaccine Discourse on Twitter
+Data and Sentiment Analysis in Vaccine Discourse on Twitter
 ---
 
 
